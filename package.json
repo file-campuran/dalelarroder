@@ -18,7 +18,7 @@
     "@fontsource/merriweather": "^4.5.12",
     "@mailchimp/mailchimp_marketing": "3.0.75",
     "contentlayer": "^0.2.5",
-    "esbuild": "0.14.47",
+    "esbuild": "0.14.48",
     "framer-motion": "6.3.16",
     "github-slugger": "1.4.0",
     "gray-matter": "4.0.3",
